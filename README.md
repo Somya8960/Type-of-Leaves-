@@ -16,4 +16,8 @@ Medical Certificate:- may be required for more than 2-3 days
 Carry Forward:- Sometime allowed, Varies by company policy.
 **Maternity Leave**
 Durations:- 26 Weeks(as per Indian Maternity Benefit Act,2017).
-Eligibility:-Female employees with at least 80 days service
+Eligibility:-Female employees with at least 80 days service in the past 12 months.
+Extensions:- Additional unpaid leave may be granted at discretion.
+**Paternity Leave**
+Purpose:- Leave for male employees post childbirth.
+Duration:- 5-15 Days, depending on comapany 
